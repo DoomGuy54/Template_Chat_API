@@ -1,0 +1,31 @@
+.body{
+    background-color:rgb(5, 52, 144);
+}
+
+h1{
+    color:white;
+    font-size: 220%;
+    text-align: center;
+}
+
+.img{
+    height: 60%;
+    width: 60%;
+}
+
+.body2{
+    background-color: rgb(33, 33, 33);
+}
+
+h4{
+    color:white;
+}
+
+h6{
+    color:white;
+}
+
+.icon{
+    width: 24px;
+    height: 24px;
+}
